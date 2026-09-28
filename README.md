@@ -11,9 +11,7 @@ A clean and simple landing page for a developer conference happening in San Fran
 
 ## Overview
 
-DevConf 2026 is a landing page for a fictional three-day conference for engineers, founders, and builders. Visitors can check out the speakers, compare ticket plans, and find venue details like parking, transit, and accessibility, all in one page.
-
-I built this project to practice creating a clean, easy-to-read website layout.
+DevConf 2026 is a landing page for an exciting three-day conference for engineers, founders, and builders. Visitors can check out the speakers, compare ticket plans, and find venue details like parking, transit, and accessibility, all in one page.
 
 ---
 
